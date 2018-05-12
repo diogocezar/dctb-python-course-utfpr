@@ -3,6 +3,8 @@ Um repositório para organizar as atividades no curso de Python da UTFPR 2018.
 
 ## Apresentação
 
+Repositório Original : https://github.com/ViniciusRomano/oficina-python
+
 https://docs.google.com/presentation/d/1xDWI6-GxYirtNrUCHC2j8SUqiS59usmWydA_jMNrrPw/edit#slide=id.g35f391192_00
 
 O pdf está também na pasta apresentação;
